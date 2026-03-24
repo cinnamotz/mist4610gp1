@@ -5,7 +5,7 @@
 
 1. Donovan D'Silva - 	
 2. Noah Hammond	-
-3. Chase Lin -
+3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp1/tree/main)
 4. Krithin Lokasani	-
 5. Jessica Ngo -
 

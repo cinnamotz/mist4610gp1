@@ -18,7 +18,7 @@ We are interested in accurately modeling these relationships, generating sample 
 ## Data Model
 
 ## Data Dictionary
-
+![Supplier and Product Supplier Data Dictionary](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_Supplier_ProductSup.png)
 ## Queries
 
 ## Database information

@@ -18,15 +18,15 @@ We are interested in accurately modeling these relationships, generating sample 
 ## Data Model
 
 ## Data Dictionary
-![Employee Data Dictionary](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_Employees.png)
-![Customer Data Dictionary](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_Customers.png)
-![StoreLocation and Loyalty Account Data Dictionary](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_StoreLoc_Loyal.png)
-![Orders](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_Orders.png)
-![OrderItems](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_OrderItems.png)
-![Products](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_Products.png)
+![Employee Data Dictionary](DataDict_Employees.png)
+![Customer Data Dictionary](DataDict_Customers.png)
+![StoreLocation and Loyalty Account Data Dictionary](DataDict_StoreLoc_Loyal.png)
+![Orders](DataDict_Orders.png)
+![OrderItems](DataDict_OrderItems.png)
+![Products](DataDict_Products.png)
 ![Payments](DataDict_Payments.png)
-![Category](image-url)
-![Supplier and Product Supplier Data Dictionary](https://github.com/cinnamotz/mist4610gp1/blob/main/DataDict_Supplier_ProductSup.png)
+![Category](DataDict_Category.png)
+![Supplier and Product Supplier Data Dictionary](DataDict_Supplier_ProductSup.png)
 ## Queries
 
 ## Database information

@@ -4,7 +4,7 @@
 ## Group Members:
 
 1. Donovan D'Silva - 	
-2. Noah Hammond	-
+2. Noah Hammond	-[repo](https://github.com/NoahHammond1/MIST4610_CoffeeShop_Project)
 3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp1/tree/main)
 4. Krithin Lokasani	-
 5. Jessica Ngo -
@@ -16,7 +16,7 @@ The coffee shop operates with related entities such as products (menu items), su
 
 We are interested in accurately modeling these relationships, generating sample data, and populating the entities and their attributes. We aim to perform functional queries on this data to provide important and valuable business insights, such as identifying popular menu items, managing inventory needs, and supporting decision-making for purchasing and operational efficiency.
 ## Data Model
-
+![Coffee Shop Data Model](DataModel_CoffeeShop.png)
 ## Data Dictionary
 ![Employee Data Dictionary](DataDict_Employees.png)
 ![Customer Data Dictionary](DataDict_Customers.png)

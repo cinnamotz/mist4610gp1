@@ -2,11 +2,11 @@
 
 ## Group Members:
 
-1. Donovan D'Silva - 	
+1. Donovan D'Silva - 	[repo](https://github.com/donmelsil/MIST4610_Group-Project)
 2. Noah Hammond	-[repo](https://github.com/NoahHammond1/MIST4610_CoffeeShop_Project)
 3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp1/tree/main)
 4. Krithin Lokasani	-
-5. Jessica Ngo -
+5. Jessica Ngo -[repo](https://github.com/jn83499/Mist4610_Group-Project)
 
 ## Problem Description
 We were assigned a task to model and build a relational database for the general operations of a coffee shop. The central entity in the model is the Orders entity, as it represents each transaction made by customers and serves as the core around which the rest of the system operates. Orders connect key components of the business, including customers, employees, products, and payments.

@@ -19,13 +19,12 @@ We are interested in accurately modeling these relationships, generating sample 
 ## Data Dictionary
 ![Employee Data Dictionary](DataDict_Employees.png)
 ![Customer Data Dictionary](DataDict_Customers.png)
-![StoreLocation and Loyalty Account Data Dictionary](DataDict_StoreLoc_Loyal.png)
-![Orders](DataDict_Orders.png)
-![OrderItems](DataDict_OrderItems.png)
-![Products](DataDict_Products.png)
-![Payments](DataDict_Payments.png)
-![Category](DataDict_Category.png)
-![Supplier and Product Supplier Data Dictionary](DataDict_Supplier_ProductSup.png)
+![Category and Store Location Data Dictionary](DataDict_Cat_StrLoc.png)
+![Orders Data Dictionary](DataDict_Orders.png)
+![OrderItems and Dictionary](DataDict_OrderItems.png)
+![Products Data Dictionary](DataDict_Products.png)
+![Loyalty Account and Payment Data Dictionary](DataDict_Loy_Pmt.png)
+![Supplier and Product Supplier Data Dictionary](DataDict_Sup_ProdSup.png)
 ## Queries
 
 ## Database information

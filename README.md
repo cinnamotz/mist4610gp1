@@ -1,4 +1,3 @@
-
 # MIST 4610 Group Project 1 - Group 7
 
 ## Group Members:

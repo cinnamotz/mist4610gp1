@@ -42,3 +42,5 @@ Overall, the data model supports the core function and operations of a local cof
 ## Queries
 
 ## Database information
+Name of Database: al_Group_21482_G7
+Additional Info: Each query listed above is marked in the database used stored procedures which are called through the following format: CALL TP_Q() where "()" is the query number.

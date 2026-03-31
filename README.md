@@ -47,7 +47,7 @@ Overall, the data model supports the core function and operations of a local cof
 | GROUP BY                   | X  | X  |    |    | X  | X  |    |    |    |     |
 | GROUP BY with HAVING       | X  |    |    |    |    |    |    |    |    |     |
 | Multi-condition WHERE      |    |    |    |    |    |    |    |    |    |     |
-| Built-in Functions         | X  | X  | X  |    |    | X  |    |    |    |     |
+| Built-in Functions         | X  | X  | X  |    |    | X  | X  |    |    |     |
 | REGEXP                     |    |    | X  |    |    |    |    |    |    |     |
 | NOT EXISTS                 |    |    |    |    |    |    |    |    |    |     |
 

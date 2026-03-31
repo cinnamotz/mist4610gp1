@@ -87,7 +87,13 @@ Query 6 allows for managers to see what type of payment method is the most popul
 Query 7 allows for customers to see the total amount of loyalty points they have. This is useful for when they need to redeem for different rewards. It would also be useful for employees and managers to see them when during or after a purchase to help loyalty point redemption.
 
 8.a
-9.a
+
+![Query8](Query8.png)
+
+9.
+
+![Query9](Query9.png)
+
 10. Query 10 shows the suppliers who supply more than 1 product that are priced over 2 dollars.
 
 ![Query10](Query10.png)

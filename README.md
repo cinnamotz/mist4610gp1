@@ -42,14 +42,14 @@ Overall, the data model supports the core function and operations of a local cof
 ## Queries
 | Feature                     | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
 |----------------------------|----|----|----|----|----|----|----|----|----|-----|
-| Multiple Table Join        | X  | X  |    | X  | X  |    | X  |    |    |     |
+| Multiple Table Join        | X  | X  |    | X  | X  |    | X  |    |    |  X  |
 | Subquery                   | X  |    |    | X  |    |    |    |    |    |     |
 | GROUP BY                   | X  | X  |    |    | X  | X  |    |    |    |     |
-| GROUP BY with HAVING       | X  |    |    |    |    |    |    |    |    |     |
-| Multi-condition WHERE      |    |    |    |    |    |    |    |    |    |     |
-| Built-in Functions         | X  | X  | X  |    |    | X  | X  |    |    |     |
+| GROUP BY with HAVING       | X  |    |    |    |    |    |    |    |    |  X  |
+| Multi-condition WHERE      |    |    |    | X  |    |    |    |    |    |  X  |
+| Built-in Functions         | X  | X  | X  |    |    | X  | X  |    |    |  X  |
 | REGEXP                     |    |    | X  |    |    |    |    |    |    |     |
-| NOT EXISTS                 |    |    |    |    |    |    |    |    |    |     |
+| NOT EXISTS                 |    |    |    |    |    |    |    |    | X  |     |
 
 1. Query 1 finds customers who spend more than average by comparing each customer’s total spending to the overall average payment.
    
@@ -85,6 +85,14 @@ Query 6 allows for managers to see what type of payment method is the most popul
 
 ![Query7](Query7.png)
 Query 7 allows for customers to see the total amount of loyalty points they have. This is useful for when they need to redeem for different rewards. It would also be useful for employees and managers to see them when during or after a purchase to help loyalty point redemption.
+
+8.a
+9.a
+10. Query 10 shows the suppliers who supply more than 1 product that are priced over 2 dollars.
+
+![Query10](Query10.png)
+Query 10 allows managers to see which suppliers provide the most products to the coffeeshop, focusing on products that are currently available and priced over $2.00. Managers can use this information to make better decisions about supplier relationships and inventory planning. Suppliers with more products and higher value products may be prioritized for future supply orders, and the suppliers with fewer products can be reconsidered for either improving relationships or terminating them..
+
 ## Database information
 Name of Database: al_Group_21482_G7
 

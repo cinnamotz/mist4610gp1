@@ -42,13 +42,13 @@ Overall, the data model supports the core function and operations of a local cof
 ## Queries
 | Feature                     | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
 |----------------------------|----|----|----|----|----|----|----|----|----|-----|
-| Multiple Table Join        | X  | X  |    |    |    |    |    |    |    |     |
-| Subquery                   | X  |    |    |    |    |    |    |    |    |     |
-| GROUP BY                   | X  | X  |    |    |    |    |    |    |    |     |
+| Multiple Table Join        | X  | X  |    | X  | X  |    | X  |    |    |     |
+| Subquery                   | X  |    |    | X  |    |    |    |    |    |     |
+| GROUP BY                   | X  | X  |    |    | X  | X  |    |    |    |     |
 | GROUP BY with HAVING       | X  |    |    |    |    |    |    |    |    |     |
 | Multi-condition WHERE      |    |    |    |    |    |    |    |    |    |     |
-| Built-in Functions         | X  | X  |    |    |    |    |    |    |    |     |
-| REGEXP                     |    |    |    |    |    |    |    |    |    |     |
+| Built-in Functions         | X  | X  | X  |    |    | X  |    |    |    |     |
+| REGEXP                     |    |    | X  |    |    |    |    |    |    |     |
 | NOT EXISTS                 |    |    |    |    |    |    |    |    |    |     |
 
 1. Query 1 finds customers who spend more than average by comparing each customer’s total spending to the overall average payment.
@@ -74,7 +74,7 @@ Query 4 helps managers identify which customers are making large purchases using
 5. Query 5 lists each store location alongside its total number of orders, total revenue generated, and average order value. The results are ordered in descending order of total revenue.
 
 ![Query5](Query5.png)
-Query 5allows managers to compare the performances of each store location against each other in a multitude of ways. The ways are total orders, total revenue, and average order value. Total orders would allow managers to understand how many total orders are being processed by each store relative to their counterparts, to understand which locations are seeing more volume. Total revenue gives a little more of this understanding, by allowing managers to dissect even further into which stores are the most profitable. Average order value allows managers to better understand which stores are able to generate more value based on each individual order, possibly justifying raised prices or expanded premium offerings at certain locations.
+Query 5 allows managers to compare the performances of each store location against each other in a multitude of ways. The ways are total orders, total revenue, and average order value. Total orders would allow managers to understand how many total orders are being processed by each store relative to their counterparts, to understand which locations are seeing more volume. Total revenue gives a little more of this understanding, by allowing managers to dissect even further into which stores are the most profitable. Average order value allows managers to better understand which stores are able to generate more value based on each individual order, possibly justifying raised prices or expanded premium offerings at certain locations.
 
 6. Query 6 finds what payment method is used the most amongst all the stores.
 
